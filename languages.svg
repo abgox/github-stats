@@ -134,19 +134,19 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #012456; 
-  width: 27.201%;
+  width: 27.186%;
 " class="progress-item"></span><span style="
   background-color: #6594b9; 
-  width: 24.724%;
+  width: 24.729%;
 " class="progress-item"></span><span style="
   background-color: #3178c6; 
-  width: 24.436%;
+  width: 24.441%;
 " class="progress-item"></span><span style="
   background-color: #41b883; 
-  width: 14.576%;
+  width: 14.579%;
 " class="progress-item"></span><span style="
   background-color: #89e051; 
-  width: 3.559%;
+  width: 3.560%;
 " class="progress-item"></span><span style="
   background-color: #000080; 
   width: 2.267%;
@@ -194,7 +194,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">PowerShell</span>
-  <span class="percent">27.20%</span>
+  <span class="percent">27.19%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -210,7 +210,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">AutoHotkey</span>
-  <span class="percent">24.72%</span>
+  <span class="percent">24.73%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 

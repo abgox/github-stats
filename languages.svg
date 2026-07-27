@@ -134,34 +134,34 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #012456; 
-  width: 29.540%;
+  width: 29.511%;
 " class="progress-item"></span><span style="
   background-color: #6594b9; 
-  width: 23.900%;
+  width: 23.910%;
 " class="progress-item"></span><span style="
   background-color: #3178c6; 
-  width: 23.666%;
+  width: 23.675%;
 " class="progress-item"></span><span style="
   background-color: #41b883; 
-  width: 14.116%;
+  width: 14.122%;
 " class="progress-item"></span><span style="
   background-color: #89e051; 
-  width: 3.447%;
+  width: 3.449%;
 " class="progress-item"></span><span style="
   background-color: #000080; 
-  width: 2.195%;
+  width: 2.196%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
   width: 1.367%;
 " class="progress-item"></span><span style="
   background-color: #e34c26; 
-  width: 0.575%;
+  width: 0.576%;
 " class="progress-item"></span><span style="
   background-color: #3572A5; 
   width: 0.422%;
 " class="progress-item"></span><span style="
   background-color: #663399; 
-  width: 0.346%;
+  width: 0.347%;
 " class="progress-item"></span><span style="
   background-color: #c6538c; 
   width: 0.294%;
@@ -194,7 +194,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">PowerShell</span>
-  <span class="percent">29.54%</span>
+  <span class="percent">29.51%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -210,7 +210,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">AutoHotkey</span>
-  <span class="percent">23.90%</span>
+  <span class="percent">23.91%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
@@ -226,7 +226,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">TypeScript</span>
-  <span class="percent">23.67%</span>
+  <span class="percent">23.68%</span>
 </li>
 <li style="animation-delay: 600ms;">
   <svg 

@@ -134,22 +134,22 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #dea584; 
-  width: 21.451%;
+  width: 21.454%;
 " class="progress-item"></span><span style="
   background-color: #6594b9; 
-  width: 19.094%;
+  width: 19.096%;
 " class="progress-item"></span><span style="
   background-color: #3178c6; 
-  width: 18.921%;
+  width: 18.924%;
 " class="progress-item"></span><span style="
   background-color: #012456; 
-  width: 15.931%;
+  width: 15.930%;
 " class="progress-item"></span><span style="
   background-color: #41b883; 
-  width: 11.288%;
+  width: 11.290%;
 " class="progress-item"></span><span style="
   background-color: #000080; 
-  width: 9.582%;
+  width: 9.573%;
 " class="progress-item"></span><span style="
   background-color: #7355dd; 
   width: 1.213%;
@@ -216,7 +216,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">AutoHotkey</span>
-  <span class="percent">19.09%</span>
+  <span class="percent">19.10%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
@@ -280,7 +280,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Lua</span>
-  <span class="percent">9.58%</span>
+  <span class="percent">9.57%</span>
 </li>
 <li style="animation-delay: 1050ms;">
   <svg 

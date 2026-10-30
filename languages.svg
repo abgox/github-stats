@@ -134,31 +134,31 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #dea584; 
-  width: 26.785%;
+  width: 26.825%;
 " class="progress-item"></span><span style="
   background-color: #3178c6; 
-  width: 17.152%;
+  width: 17.132%;
 " class="progress-item"></span><span style="
   background-color: #012456; 
-  width: 15.421%;
+  width: 15.403%;
 " class="progress-item"></span><span style="
   background-color: #6594b9; 
-  width: 13.614%;
+  width: 13.598%;
 " class="progress-item"></span><span style="
   background-color: #000080; 
-  width: 8.695%;
+  width: 8.732%;
 " class="progress-item"></span><span style="
   background-color: #41b883; 
-  width: 8.049%;
+  width: 8.039%;
 " class="progress-item"></span><span style="
   background-color: #89e051; 
-  width: 7.206%;
+  width: 7.197%;
 " class="progress-item"></span><span style="
   background-color: #7355dd; 
-  width: 0.915%;
+  width: 0.914%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
-  width: 0.823%;
+  width: 0.822%;
 " class="progress-item"></span><span style="
   background-color: #3572A5; 
   width: 0.512%;
@@ -200,7 +200,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Rust</span>
-  <span class="percent">26.78%</span>
+  <span class="percent">26.83%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -216,7 +216,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">TypeScript</span>
-  <span class="percent">17.15%</span>
+  <span class="percent">17.13%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
@@ -232,7 +232,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">PowerShell</span>
-  <span class="percent">15.42%</span>
+  <span class="percent">15.40%</span>
 </li>
 <li style="animation-delay: 600ms;">
   <svg 
@@ -248,7 +248,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">AutoHotkey</span>
-  <span class="percent">13.61%</span>
+  <span class="percent">13.60%</span>
 </li>
 <li style="animation-delay: 750ms;">
   <svg 
@@ -264,7 +264,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Lua</span>
-  <span class="percent">8.69%</span>
+  <span class="percent">8.73%</span>
 </li>
 <li style="animation-delay: 900ms;">
   <svg 
@@ -280,7 +280,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Vue</span>
-  <span class="percent">8.05%</span>
+  <span class="percent">8.04%</span>
 </li>
 <li style="animation-delay: 1050ms;">
   <svg 
@@ -296,7 +296,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Shell</span>
-  <span class="percent">7.21%</span>
+  <span class="percent">7.20%</span>
 </li>
 <li style="animation-delay: 1200ms;">
   <svg 
@@ -312,7 +312,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">C#</span>
-  <span class="percent">0.92%</span>
+  <span class="percent">0.91%</span>
 </li>
 <li style="animation-delay: 1350ms;">
   <svg 
